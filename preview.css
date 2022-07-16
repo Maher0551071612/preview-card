@@ -1,0 +1,99 @@
+
+
+
+
+body{background-color:  hsl(217, 54%, 11%);}
+
+main { width: 290px;
+        height: 500px;
+        background-color: hsl(216, 50%, 16%);
+        border: 1px solid hsl(216, 50%, 16%); 
+        display: grid;
+        justify-content: center;
+        align-content: center;
+       margin: 100px auto;
+       border-radius: 15px;
+
+}
+
+.photo { margin: auto;
+         border-radius: 10px;
+
+}
+
+h1{ color: hsl(0, 0%, 100%);
+    margin: 15px 18px 18px 18px;
+    font-size: 18px;
+    font-family: 'Outfit', sans-serif;
+    font-weight:400;
+
+
+}
+
+p { color:  hsl(215, 51%, 70%);
+    margin: -8px 18px 18px 18px;
+    font-family: 'Outfit', sans-serif;
+    font-weight: 300;
+    font-size: 15px;
+
+}
+.ETH { color:hsl(178, 100%, 50%);
+       margin-top: 5px;
+       margin-left: 33px;
+       font-family: 'Outfit', sans-serif;
+       font-weight: 600;
+       font-size: 12px;
+
+
+
+}
+.days { color:  hsl(215, 51%, 70%);
+        margin-top: -18px;
+        margin-left: 205px;
+        font-family: 'Outfit', sans-serif;
+        font-weight: 300;
+        font-size: 10px;
+
+
+}
+
+.line{  border-top:1px solid  hsl(215, 32%, 27%);
+       margin: 10px;
+}
+
+.eicon { margin-left: 15px;
+        margin-top: -16px;
+
+}
+
+.clo { margin-left: 183px;
+       margin-top: -19px;
+
+
+}
+
+.creatorphoto { padding:1px;
+                border-radius: 50%;
+                background-color: white;
+                margin-left: 20px;
+                margin-top: 10px;
+    
+
+}
+
+p.creator { color:white;
+              margin-left: 65px;
+              margin-top:-30px ;
+              font-family: 'Outfit', sans-serif;
+              font-weight: 300;
+              font-size: 13px;
+}
+
+.color { color:hsl(215, 51%, 70%);}
+
+
+.attribution { color:red;
+               margin-left: 35%;
+            }
+
+
